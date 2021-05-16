@@ -1,5 +1,5 @@
 # Happy Sourcing & Recruiting :heart:
-Hellos/ Namaste :pray:
+Hello All :pray:
 
 I'm Manish Shekhawat ( https://www.linkedin.com/in/manish-shekhawat-99a440141/)  and I'm a full stack recruiter with deep interest in sourcing & recruiting. 
 
@@ -26,5 +26,10 @@ I created this, all because I'm curious and I want to learn from the smartest pe
 *  [Contact Out](https://chrome.google.com/webstore/detail/find-anyones-email-contac/jjdemeiffadmmjhkbbpglgnlgeafomjo)- you get some free credits to find contact info of candidates. Very useful!
 *  [RocketReach](https://rocketreach.co/)- found it useful to find contact info of candidates. You get some free credits. 
 *  [Seekout](https://seekout.com/)- SeekOut’s trusted AI-powered talent search engine enables Talent Acquisition teams to understand any talent pool and quickly find the talent they need — with a focus on diversity, technical expertise, and other hard-to-find skillsets. 
-*  [Hiretual](https://hiretual.com/)-Hiretual is the candidate search and data engine for all your sourcing and recruiting efforts
-*  [Recruitingmonk](https://recruitingmonk.com/)- Helps in sourcing
+*  [Hiretual](https://hiretual.com/)-Hiretual is the candidate search and data engine for all your sourcing and recruiting efforts.
+*  [Recruitingmonk](https://recruitingmonk.com/)- Helps in sourcing.
+*  [Signalhire](https://www.signalhire.com/)-Signalhire chromeextension allows you to enrich candidate profiles with their direct emails and phone numbers and export them from LinkedIn, Facebook, Twitter, or GitHub directly.
+*  [Recruitemtngeek](https://recruitmentgeek.com/)- Beautiful tool to source people from LinkedIN X ray.
+*  [Recruit'EM](https://recruitin.net/) - One of my favourite tools which helps us to extract search people thorugh diffrent sources like LinkedIN,Xing, Dribble,Staokverflow etc.
+*  [Socialtalent](https://www.socialtalent.com/)- Best platform for learning about diffrent hacks,News,related with recruitmwnt and sourcing. 
+*  [Lusha](https://www.lusha.com/)-Lusha is a powerful chrome extension that allows you to find contact details, such as email addresses and phone numbers through social network profiles.
